@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.mp3
+*.png
+venv/
+.venv/
+whatsapp_session/
+user_data/
